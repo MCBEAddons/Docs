@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [Contributors](contributors.md)
+* [Contributing](contributing.md)
 
 ## Manifest
 
