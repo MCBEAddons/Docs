@@ -1,9 +1,9 @@
 # Contributors
 
-## Development Team
+### Development Team
 
-**Lead Developer** - Noinkin
+**Lead Developer** - [Noinkin](https://github.com/Noinkin)
 
-## Docs Contributors
+### Docs Contributors
 
-Noinkin
+[Noinkin](https://github.com/Noinkin)
