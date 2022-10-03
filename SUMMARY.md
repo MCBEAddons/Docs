@@ -1,3 +1,3 @@
 # Table of contents
 
-* [MCBEAddons Docs](README.md)
+* [MCBE Addons Docs](README.md)
