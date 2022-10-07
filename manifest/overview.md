@@ -6,7 +6,7 @@ This category will explain how to use the Manifest classes.
 
 {% tabs %}
 {% tab title="TypeScript" %}
-{% code title="index.js" overflow="wrap" lineNumbers="true" %}
+{% code title="index.ts" overflow="wrap" lineNumbers="true" %}
 ```typescript
 import { RP } from '@mcbeaddons/creatorjstypes';
 
@@ -33,8 +33,6 @@ const myRPManifest = RP.format({ name: myAddonName, description: myAddonDescript
 console.log(myRPManifest);
 ```
 {% endcode %}
-
-
 {% endtab %}
 
 {% tab title="CommonJS" %}
